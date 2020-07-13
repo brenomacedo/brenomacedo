@@ -39,11 +39,11 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 ⭐️ From [brenomacedo](https://github.com/brenomacedo)
 
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<a href="https://github.com/brenomacedo/NLW1">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=NLW1" />
 </a>
 
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
+<a href="https://github.com/brenomacedo/rest.inn">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=rest.inn" />
 </a>
 
