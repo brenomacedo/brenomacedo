@@ -7,7 +7,7 @@
 
 Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a 17 years old student. Beside's programming, I enjoy eating food and playing Dark Souls.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
