@@ -34,6 +34,7 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png"></code>
 <code><img height="20" src="https://i.imgur.com/VD36OrK.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></code>
 
 
 ![Breno Macêdo's github stats](https://github-readme-stats.vercel.app/api?username=brenomacedo&show_icons=true&hide_border=true)
