@@ -39,6 +39,9 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/sequelize-2-1175003.png"></code>
+<code><img height="20" src="https://avatars2.githubusercontent.com/u/20165699?s=400&v=4"></code>
+
 
 <br>
 
