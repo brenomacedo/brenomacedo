@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/ZHavbRp.png">
+<img src="https://i.imgur.com/LVqYY6P.png">
 ### Hey 👋🏻, I'm [Breno!]
 
 
