@@ -48,7 +48,7 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomacedo&layout=compact" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomacedo" alt="Top languages"/>
 
 ![Breno Macêdo's github stats](https://github-readme-stats.vercel.app/api?username=brenomacedo&show_icons=true&hide_border=true)
 
