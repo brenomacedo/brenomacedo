@@ -13,7 +13,6 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a student who lives in Fortaleza, Ceará;
-- 🌱 I’m currently learning Vue, Laravel, React, React Native, Deno and Machine Learning with Python; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ My favorite games are Dark Souls III and Devil May Cry 3!
 - 📫 How to reach me: b88660501@gmail.com // "Yorshka#8625";
