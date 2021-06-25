@@ -60,6 +60,7 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 <a href="https://github.com/brenomacedo/nlw2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=nlw2&theme=algolia"/>
 </a>
+<br>
 <a href="https://github.com/brenomacedo/nlw4-react">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=nlw4-react&theme=algolia"/>
 </a>
