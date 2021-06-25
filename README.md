@@ -48,9 +48,23 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomacedo" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenomacedo&theme=algolia" alt="Top languages"/>
+<br>
 
-![Breno Macêdo's github stats](https://github-readme-stats.vercel.app/api?username=brenomacedo&show_icons=true&hide_border=true)
+![Breno Macêdo's github stats](https://github-readme-stats.vercel.app/api?username=brenomacedo&theme=algolia&show_icons=true)
+<br>
+<h1>Some interesting repositories:</h1>
+<br>
+<h2>I participated in all editions of Next Level Week (since Omnistack Week 8) and, in my sight, these were the best editions (you can view the others editions searching in my profile):</h2>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=nlw2&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=nlw4-react&theme=algolia"/>
+
+
+
+<br>
+<br>
+<br>
 
 ⭐️ From [brenomacedo](https://github.com/brenomacedo)
 
