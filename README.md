@@ -15,7 +15,7 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 - 👨🏽‍💻 I’m a student who lives in Fortaleza, Ceará;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ My favorite games are Dark Souls III and Devil May Cry 3!
-- 📫 How to reach me: b88660501@gmail.com // "Yorshka#8625";
+- 📫 How to reach me: breno.macedo@alu.ufc.br
 - 📝I don't have twitter, facebook, instagram and others social medias.
 
 **Languages and Tools:**  
