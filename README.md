@@ -73,13 +73,19 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 
 <h2>Some project i made by myself:</h2>
 <br>
+<a href="https://github.com/brenomacedo/g-track">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=g-track&theme=algolia"/>
+</a>
+<br>
+<br>
 <a href="https://github.com/brenomacedo/hello-friend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=hello-friend&theme=algolia"/>
 </a>
 <br>
 <br>
-<a href="https://github.com/brenomacedo/g-track">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=g-track&theme=algolia"/>
+<h4>In development...</h4>
+<a href="https://github.com/brenomacedo/movie-sky">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=movie-sky&theme=algolia"/>
 </a>
 
 <br>
