@@ -83,7 +83,6 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 </a>
 <br>
 <br>
-<h4>In development...</h4>
 <a href="https://github.com/brenomacedo/movie-sky">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=movie-sky&theme=algolia"/>
 </a>
