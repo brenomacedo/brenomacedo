@@ -60,7 +60,6 @@ Hi, I'm Breno Macêdo, a Full Stack Developer 🚀 from Brazil, currently, I'm a
 <br>
 <h1>Some interesting repositories:</h1>
 <br>
-<h2>I participated in all editions of Next Level Week (since Omnistack Week 8) and, in my sight, these were the best editions (you can view the others editions searching in my profile):</h2>
 <br>
 <a href="https://github.com/brenomacedo/nlw2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenomacedo&repo=nlw2&theme=algolia"/>
