@@ -1,4 +1,4 @@
-<h2 align='center'>Esse perfil vai ficar sem receber commits por um tempo, pois eu estou tendo que conciliar o estágio com a faculdade, então não vai dar pra fazer projetos pessoais por enquanto.</h2>
+
 
 <img width="100%" src="https://i.imgur.com/LVqYY6P.png">
 ### Hey 👋🏻, I'm [Breno!]
